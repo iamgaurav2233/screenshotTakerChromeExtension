@@ -1,12 +1,7 @@
 
-Test Screenshot Extension
+This extension helps to take screenshot of chrome screen
 =======
 
-Demonstrate screenshot functionality in the chrome.tabs api.
-
-[Zipfile](http://developer.chrome.com/extensions/examples/api/tabs/screenshot.zip)
-
-Content is licensed under the [Google BSD License](https://developers.google.com/open-source/licenses/bsd).
 
 Calls
 -----
